@@ -1,5 +1,5 @@
 # KICKS [WINNER]
-## KICKS is my 2024 submission for Apple's WWDC Swift Student Challenge. An interactive shoe experience, build using SceneKit technology from Apple.
+### KICKS is my 2024 submission for Apple's WWDC Swift Student Challenge. An interactive shoe experience, build using SceneKit technology from Apple.
 
 ![KICKS_Intro](https://github.com/ooowwwiiilll/WWDC24_Kicks/assets/92080715/ca93bb36-50e5-4e09-b024-2d5624386d47)
 ![![KICKS_Quiz3](https://github.com/ooowwwiiilll/WWDC24_Kicks/assets/92080715/2015ba0f-22da-4afd-9397-0d6f12b3c267)
@@ -35,4 +35,4 @@ Hence I build KICKS. I want to educate non-sneakerheads the anatomy of a shoe an
 3. Choose iPad Pro 12.9-inch as the simulator and hit build.
 Enjoy!
 
-## KICKS will be available in the App Store soon. More fun & engaging features are under development. Stay tune.
+### KICKS will be available in the App Store soon. More fun & engaging features are under development. Stay tune.
